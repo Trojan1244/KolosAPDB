@@ -10,6 +10,6 @@ namespace Kolos.Services
 {
     public interface IDbService
     {
-        Task<SomeAlbum> GetAlbumInfo(int idAlbum);
+        Task<SomeTeam> GetTeam(int id);
     }
 }

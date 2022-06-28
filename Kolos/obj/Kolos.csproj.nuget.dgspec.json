@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\Kolos.csproj": {}
+    "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\Kolos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\Kolos.csproj": {
+    "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\Kolos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\Kolos.csproj",
+        "projectUniqueName": "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\Kolos.csproj",
         "projectName": "Kolos",
-        "projectPath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\Kolos.csproj",
+        "projectPath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\Kolos.csproj",
         "packagesPath": "C:\\Users\\troja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\obj\\",
+        "outputPath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

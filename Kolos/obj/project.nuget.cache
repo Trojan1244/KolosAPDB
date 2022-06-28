@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xM2BubK3j0Ju9zhwbHr8/Yeu8F2pwL1doNgRwzTxXwGM9t0Z+IkHGTBK8s66x3jGglj+93FuOEaf7A7HnsT0sQ==",
+  "dgSpecHash": "hAyrH7c2n4yXJR6ba1Iya9baQtOazkkrNjqCyAgDBSDDNEkdQK2l9166CfQNTuwb87sefBkb+so9FBqFSzmk/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos\\Kolos\\Kolos.csproj",
+  "projectFilePath": "C:\\Users\\troja\\Desktop\\APBD\\Kolos2\\KolosAPDB\\Kolos\\Kolos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\troja\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\troja\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
